@@ -1,0 +1,19 @@
+{
+  "snapshot_date": "2026-10-27",
+  "scope": "One independent LISP tool; original bytes preserved",
+  "files": [
+    {
+      "path": "lsp/CHSC.lsp",
+      "bytes": 9727,
+      "sha256": "7681908e7ab49297f40e064e0f2e3ca36fd8daf04816056adf3d067638e906b7",
+      "encoding": "utf-8",
+      "bom": true,
+      "commands": [
+        {
+          "name": "CHSC",
+          "line": 290
+        }
+      ]
+    }
+  ]
+}

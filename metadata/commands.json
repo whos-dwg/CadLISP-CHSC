@@ -1,0 +1,11 @@
+[
+  {
+    "file": "lsp/CHSC.lsp",
+    "commands": [
+      "CHSC"
+    ],
+    "title": "跨視埠比例複製註解",
+    "category": "配置與圖層",
+    "manual": "README.md"
+  }
+]
